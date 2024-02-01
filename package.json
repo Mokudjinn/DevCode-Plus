@@ -2,6 +2,7 @@
   "name": "devcodeplus",
   "displayName": "DevCode+",
   "description": "DevCode+ color theme!",
+  "icon": "assets/Logo.png",
   "version": "1.3.0",
   "publisher": "Mokudjinn",
   "repository": {
