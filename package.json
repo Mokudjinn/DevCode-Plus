@@ -1,0 +1,33 @@
+{
+  "name": "devcodeplus",
+  "displayName": "DevCode+",
+  "description": "DevCode+ color theme!",
+  "version": "1.1.0",
+  "publisher": "Mokudjinn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mokudjinn/DevCode-Plus"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mokudjinn",
+    "Mokudjinn",
+    "DevCode"
+  ],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DevCode+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DevCode+-color-theme.json"
+      }
+    ]
+  }
+}
